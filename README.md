@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoahLeu
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning Phoenix / Elixir
 - 💞️ I’m looking to collaborate on projects regarding webapps and websites
-- 📫 How to reach me (for work): info@webdash.solutions
+- 📫 How to reach me (for work): nleu@webdash.solutions
 - ✨ my company [webDash](https://webdash.solutions)
 
 <!---
