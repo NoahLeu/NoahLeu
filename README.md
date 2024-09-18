@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahLeu
 - 👀 I’m a Full Stack Developer
-- 🧪 Currently learning Phoenix / Elixir
+- 🧪 Currently learning Devops
 - 💞️ I’m looking to collaborate on projects such as web apps and more
 - 📫 How to reach me (for work): noah.leu@webdash.solutions
 - ✨ my company [webDash](https://webdash.solutions)
