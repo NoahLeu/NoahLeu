@@ -1,6 +1,6 @@
 # Hi, I'm Noah 👋  
 
-🚀 I’m a software developer and founder working in **web development and AI*.  
+🚀 I’m a software developer and founder working in **web development and AI**.  
 My work combines **clean code, project management, and growth-focused development** to build digital products that scale.  
 
 ---
