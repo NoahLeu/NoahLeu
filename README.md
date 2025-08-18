@@ -18,11 +18,7 @@ My work combines **clean code, project management, and growth-focused developmen
 - **Databases:** PostgreSQL, SQLite, MongoDB  
 - **DevOps & Cloud:** Docker, Terraform, AWS, GitHub Actions
 
----
-
-## 📊 GitHub Activity
 ![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoahLeu&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahLeu&layout=compact&theme=default)  
 
 ---
 
