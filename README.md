@@ -7,13 +7,13 @@ My work combines **clean code, project management, and growth-focused developmen
 
 ## 👨‍💻 About Me
 - 🎓 M.Sc. Computer Science (University of Rostock)  
-- 💼 Building a **AI-powered product quiz platform** startup  
+- 💼 Building an **AI-powered product quiz platform** startup  
 - 🌐 Freelance experience in **Web Dev, SEO, and Project Management**  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages & Frameworks:** Elixir (Phoenix), JavaScript (Next.js, React), TypeScript, Python  
+- **Languages & Frameworks:** Elixir (Phoenix), JavaScript / TypeScript (Next.js, React), Python  
 - **Web & CMS:** Strapi, Payload, Sanity
 - **Databases:** PostgreSQL, SQLite, MongoDB  
 - **DevOps & Cloud:** Docker, Terraform, AWS, GitHub Actions
