@@ -7,18 +7,8 @@ My work combines **clean code, project management, and growth-focused developmen
 
 ## 👨‍💻 About Me
 - 🎓 M.Sc. Computer Science (University of Rostock)  
-- 💼 Building an **AI-powered product quiz platform** startup  
-- 🌐 Freelance experience in **Web Dev, SEO, and Project Management**  
-
----
-
-## 🛠 Tech Stack
-- **Languages & Frameworks:** Elixir (Phoenix), JavaScript / TypeScript (Next.js, React), Python  
-- **Web & CMS:** Strapi, Payload, Sanity
-- **Databases:** PostgreSQL, SQLite, MongoDB  
-- **DevOps & Cloud:** Docker, Terraform, AWS, GitHub Actions
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahLeu&layout=compact&theme=default) 
+- 💼 IT Consultant @Netlight
+- 🌐 Freelance in **Web Dev, SEO, and Project Management**  
 
 ---
 
@@ -27,8 +17,5 @@ My work combines **clean code, project management, and growth-focused developmen
 - 💼 [LinkedIn](https://www.linkedin.com/in/noah-leu/)  
 
 ---
+
 💡 *Always open to collaborating on projects.*
-<!---
-NoahLeu/NoahLeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
